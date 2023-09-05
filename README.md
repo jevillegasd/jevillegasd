@@ -11,7 +11,7 @@ For more information on some of my academic projects check out my [google schola
 - 🔭 I’m currently working on the development of designs for superconductive qunatum computers.
 - 🌱 I’m currently learning quantum computing.
 - 👯 I’m looking to collaborate on projects related to photonic circuit design and superconductive cirucits.
-- 🤔 I’m looking for help with design of Purcel filtersn.
+- 🤔 I’m looking for help with design of Purcel filters.
 
 - 💬 Ask me about touch-rugby, mountain hiking and beach volleyball. Or about travelling in Colombia or the UAE.
 
