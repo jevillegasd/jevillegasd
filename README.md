@@ -9,9 +9,9 @@ Projects I have worked on trough the years include the study of materials for in
 For more information on some of my academic projects check out my [google scholar](https://scholar.google.com/citations?user=mnVyrwYAAAAJ&hl=en&oi=ao) profile.
 
 - 🔭 I’m currently working on the development of designs for superconductive qunatum computers.
-- 🌱 I’m currently learning quantum computing.
+- 🌱 I’m currently learning circuit quantum electrodynamics.
 - 👯 I’m looking to collaborate on projects related to photonic circuit design and superconductive cirucits.
-- 🤔 I’m looking for help with design of Purcell filters in superconductive microwave systems.
+- 🤔 I’m looking for help with design of the equivalent of VLSI for superconductive circuits.
 
 - 💬 Ask me about touch-rugby, mountain hiking and beach volleyball. Or about travelling in Colombia or the UAE.
 
