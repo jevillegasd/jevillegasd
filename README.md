@@ -15,4 +15,4 @@ For a deeper look into my published work, check out my [Google Scholar](https://
 - 🤝 **Open to collaborating on:** Open-source EDA tooling for quantum and photonic circuits, novel nanofabrication techniques, and scalable quantum hardware architectures.
 - 💬 **Off the clock:** Ask me about touch rugby, mountain hiking, and beach volleyball—or swap travel notes on Colombia 🇨🇴 and the UAE 🇦🇪.
 
-Do you need a more detailed profile? You can get my CV from [here](https://jevillegasd.github.io/jevillegasd/jvillegas_curriculum_vitae.pdf).
+Do you need a more detailed profile? You can get my curriculum for [industry](https://jevillegasd.github.io/jevillegasd/jvillegas_cv_industry.pdf) or, with more details on research output, for [academia](https://jevillegasd.github.io/jevillegasd/jvillegas_cv_academia.pdf).
