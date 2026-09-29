@@ -1,17 +1,17 @@
-### Hey!  👋
+### Hey there! 👋
 
-My name is Juan Villegas. I'm a researcher working in supercoductive circuit design and quantum computing.
+I’m **Juan Villegas**—a quantum hardware engineer and researcher specializing in the design, microfabrication, and characterization of **superconducting quantum circuits** and **integrated photonic systems**.
 
-In the first part of the 10s, I worked as a high speed boat designer, and slowly moved into the reseacrh of electrical and electronic systems onboard ships, but then quickly jumped into photonic research when I started graduate school at the Masdar Institute, in Abu Dhabi. I completed my masters in Microsystems Engineering from Khalifa University working with professor Marcus Dahlem on the study of materials for planar optical systems. Later I started a PhD in Electrical Engineering at NYU, working with professor Mahmoud Rasras where I worked on many projects in photonics, including laser fault injection on chips, inverse design, high speed modulators and photodetectors, and physical layer security in optical networks.
+My path into microsystems wasn't strictly linear. In the early 2010s, I designed high-speed vessels and researched shipboard electrical and electronic systems before pivoting from macro-scale marine engineering to the nanoscale. That transition brought me to Abu Dhabi, where I completed my M.Sc. in Microsystems Engineering at the Masdar Institute (Khalifa University) with Prof. Marcus Dahlem, focusing on materials and fabrication processes for planar optical systems. I went on to earn my Ph.D. in Electrical Engineering at New York University (NYU) with Prof. Mahmoud Rasras, where I led research across silicon photonics design and cleanroom fabrication—spanning high-speed modulators and photodetectors, hybrid integration of 2D materials, inverse-designed optical components, and physical-layer hardware security (optical PUFs, polarization encryption, and laser fault injection).
 
-Projects I have worked on trough the years include the study of materials for integrated optics and solar cells, integration of 2D materials with silicon photonics, silicon physical unclonable functions, polarization encryption, quantum computing (hardware design and fabrication) and more to come.
+Today, my work sits at the intersection of **quantum hardware architecture, nanofabrication, and design automation**:
 
-For more information on some of my academic projects check out my [google scholar](https://scholar.google.com/citations?user=mnVyrwYAAAAJ&hl=en&oi=ao) profile.
+- 🔬 **Micro- & Nanofabrication:** End-to-end cleanroom process development for superconducting quantum processors and silicon photonics—from thin-film deposition, e-beam/optical lithography, and reactive-ion etching to Josephson junction fabrication, 3D interconnects (airbridges), and hybrid material integration.
+- ⚛️ **Superconducting Circuit Design:** Full-stack hardware development in circuit quantum electrodynamics (cQED), coupling electromagnetic/FEM simulations with cryogenic device characterization and QPU bring-up.
+- 🛠️ **EDA & Scalable Integration:** Building layout automation tools and design-for-manufacturing (DFM) workflows to bring VLSI-style scalability and reliability to superconducting quantum chips.
 
-- 🔭 I’m currently working on the development of designs for superconductive qunatum computers.
-- 🌱 I’m currently learning circuit quantum electrodynamics.
-- 👯 I’m looking to collaborate on projects related to photonic circuit design and superconductive cirucits.
-- 🤔 I’m looking for help with design of the equivalent of VLSI for superconductive circuits.
+For a deeper look into my published work, check out my [Google Scholar](https://scholar.google.com/citations?user=mnVyrwYAAAAJ&hl=en&oi=ao) profile.
 
-- 💬 Ask me about touch-rugby, mountain hiking and beach volleyball. Or about travelling in Colombia or the UAE.
+- 🤝 **Open to collaborating on:** Open-source EDA tooling for quantum and photonic circuits, novel nanofabrication techniques, and scalable quantum hardware architectures.
+- 💬 **Off the clock:** Ask me about touch rugby, mountain hiking, and beach volleyball—or swap travel notes on Colombia 🇨🇴 and the UAE 🇦🇪.
 
