@@ -8,8 +8,8 @@ Today, my work sits at the intersection of **quantum hardware architecture, nano
 
 - 🔬 **Micro- & Nanofabrication:** End-to-end cleanroom process development for superconducting quantum processors and silicon photonics—from thin-film deposition, e-beam/optical lithography, and reactive-ion etching to Josephson junction fabrication, 3D interconnects (airbridges), and hybrid material integration.
 - ⚛️ **Superconducting Circuit Design:** Full-stack hardware development in circuit quantum electrodynamics (cQED), coupling electromagnetic/FEM simulations with cryogenic device characterization and QPU bring-up.
-- 🛠️ **EDA & Scalable Integration:** Building layout automation tools and design-for-manufacturing (DFM) workflows to bring VLSI-style scalability and reliability to superconducting quantum chips.
-
+- 🛠️ **EDA & Scalable Integration:** Creator of [**kcQED (`kcq`)**](https://github.com/jevillegasd/kcq)—a layout-driven cQED design automation framework and KLayout Salt PDK featuring decoupled routing/simulation pipelines, XML-driven waveguide definitions, LVS extraction, functional rule checks, and Design-for-Test (DfT) automation.
+- 
 For a deeper look into my published work, check out my [Google Scholar](https://scholar.google.com/citations?user=mnVyrwYAAAAJ&hl=en&oi=ao) profile.
 
 - 🤝 **Open to collaborating on:** Open-source EDA tooling for quantum and photonic circuits, novel nanofabrication techniques, and scalable quantum hardware architectures.
