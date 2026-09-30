@@ -1,4 +1,4 @@
-### Hey there! 👋
+### Hey there!
 
 I’m **Juan Villegas**—a quantum hardware engineer and researcher specializing in the design, microfabrication, and characterization of **superconducting quantum circuits** and **integrated photonic systems**.
 
@@ -6,9 +6,9 @@ My path into microsystems wasn't strictly linear. In the early 2010s, I designed
 
 Today, my work sits at the intersection of **quantum hardware architecture, nanofabrication, and design automation**:
 
-- 🔬 **Micro- & Nanofabrication:** End-to-end cleanroom process development for superconducting quantum processors and silicon photonics—from thin-film deposition, e-beam/optical lithography, and reactive-ion etching to Josephson junction fabrication, 3D interconnects (airbridges), and hybrid material integration.
-- ⚛️ **Superconducting Circuit Design:** Full-stack hardware development in circuit quantum electrodynamics (cQED), coupling electromagnetic/FEM simulations with cryogenic device characterization and QPU bring-up.
-- 🛠️ **EDA & Scalable Integration:** Creator of [**kcQED (`kcq`)**](https://github.com/jevillegasd/kcq)—a layout-driven cQED design automation framework and KLayout Salt PDK featuring decoupled routing/simulation pipelines, XML-driven waveguide definitions, LVS extraction, functional rule checks, and Design-for-Test (DfT) automation.
+- **Micro- & Nanofabrication:** End-to-end cleanroom process development for superconducting quantum processors and silicon photonics—from thin-film deposition, e-beam/optical lithography, and reactive-ion etching to Josephson junction fabrication, 3D interconnects (airbridges), and hybrid material integration.
+- **Superconducting Circuit Design:** Full-stack hardware development in circuit quantum electrodynamics (cQED), coupling electromagnetic/FEM simulations with cryogenic device characterization and QPU bring-up.
+- **EDA & Scalable Integration:** Creator of [**kcQED (`kcq`)**](https://github.com/jevillegasd/kcq)—a layout-driven cQED design automation framework and KLayout Salt PDK featuring decoupled routing/simulation pipelines, XML-driven waveguide definitions, LVS extraction, functional rule checks, and Design-for-Test (DfT) automation.
 
 For a deeper look into my published work, check out my [Google Scholar](https://scholar.google.com/citations?user=mnVyrwYAAAAJ&hl=en&oi=ao) profile.
 
